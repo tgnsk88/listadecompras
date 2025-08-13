@@ -3,3 +3,7 @@ Sabonete
 Shampoo
 Condicionador
 Fio dental
+alface
+tomate
+cebola
+cenoura
