@@ -2,3 +2,8 @@ Feijão
 arroz
 laranja
 limão
+banana
+maçã
+alface
+tomate
+cebola
